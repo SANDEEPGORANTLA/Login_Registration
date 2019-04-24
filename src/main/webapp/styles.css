@@ -1,0 +1,20 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background: url(bg.jpg);
+	background-size: cover;
+	font-family: sans-serif;
+}
+.Login
+{
+	position: absolute;
+	top: 50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+	width:350px;
+	height:420px;
+	padding:50px 30px;
+	box-sizing: border-box;
+	background: rgba(0,0,0,.5);
+}
