@@ -10,10 +10,10 @@
 			com.mysql.cj.jdbc.Driver
 		</property>
 		<property name="hibernate.connection.url">
-			jdbc:mysql://localhost:3306/user?useSSL=false
+			jdbc:mysql://registration.czwkhdtryemt.us-east-2.rds.amazonaws.com:3306/user?useSSL=false
 		</property>
 		<property name="hibernate.connection.username">root</property>
-		<property name="hibernate.connection.password">test</property>
+		<property name="hibernate.connection.password">gorantlas</property>
 
 		<!-- Hibernate Properties -->
 		<property name="hibernate.hbm2ddl.auto">update</property>

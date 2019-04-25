@@ -1,0 +1,7 @@
+com/bridgeit/hibernetUtility/HiberneatUtil.class
+com/bridgeit/controller/ForgotController.class
+com/bridgeit/controller/LogInController.class
+com/bridgeit/Dao/UserDaoImple.class
+com/bridgeit/pojo/User.class
+com/bridgeit/controller/RegstrationController.class
+com/bridgeit/Dao/IUserDao.class
